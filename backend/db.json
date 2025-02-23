@@ -1,0 +1,11 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "boot course",
+      "price": 4000,
+      "instructor": "seif mohamed",
+      "desc": "Hello boot"
+    }
+  ]
+}
